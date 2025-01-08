@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from "react-router-dom"
 import { motion } from 'framer-motion';
-import Header from "../components/Header";
-import CounsellorCard from "../components/CounsellorCard";
-import Footer from "../components/Footer";
+import Header from "../components/Header.js";
+import CounsellorCard from "../components/CounsellorCard.js";
+import Footer from "../components/Footer.js";
 import counselorsData from '../data/counselorsData.js'; 
 
 
